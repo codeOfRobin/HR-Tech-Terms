@@ -19,11 +19,11 @@ These definitions aren't meant to be exhaustive or even technically accurate. Ho
 
 We've divided fields by categories below
 
-- [Backend Dev!](Categories/Backend.md)
-- [Frontend Web Dev!](Categories/Frontend.md)
-- [Mobile Dev!](Categories/Mobile.md)
-- [DevOps!](Categories/DevOps.md)
-- [Data Science!](Categories/DataScience.md)
+- [Backend Dev](Categories/Backend.md)
+- [Frontend Web Dev](Categories/Frontend.md)
+- [Mobile Dev](Categories/Mobile.md)
+- [DevOps](Categories/DevOps.md)
+- [Data Science](Categories/DataScience.md)
 
 
 
