@@ -6,7 +6,7 @@ Let’s face it. **Job descriptions suck** .
 
 http://stackoverflow.com/jobs/122486/join-deutsche-bank-technology-team-as-a-lead-deutsche-bank-group?med=clc&ref=large-sidebar-orange-looking
 
-![https://d2mxuefqeaa7sj.cloudfront.net/s_B74E6F8F9508CF88728964C3A8B4928179349E7367D670C9AC78DBCA437202C0_1474109374554_Screen+Shot+2016-09-17+at+4.19.16+PM.png]()
+![](https://d2mxuefqeaa7sj.cloudfront.net/s_B74E6F8F9508CF88728964C3A8B4928179349E7367D670C9AC78DBCA437202C0_1474109374554_Screen+Shot+2016-09-17+at+4.19.16+PM.png)
 
 
 Whether on Stack Overflow, or hasjob, angel.co or whatever’s new in town (don’t even **think** about LinkedIn. That’s just an ad/spam network masquerading as a professional social network).
