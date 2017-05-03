@@ -3,7 +3,7 @@
 DevOps is more of a culture than just a job role, where dev and ops team work in collaboration to ship product faster.
 
 An ideal devops engineer should posses following powers:
-* He is able to Architect and design reliable infrastructure on modern insfrastructure platforms like amazon web services, google cloud compute, openstack, etc.
+* S/He/They is able to Architect and design reliable infrastructure on modern insfrastructure platforms like amazon web services, google cloud compute, openstack, etc.
 * Should be good with common unix operating systems.
 * He is able to code in common scripting languages like python, ruby, shell, etc.
 * Should be able to design reliable build and release pipelines (jenkins, travis, circle ci , etc).
